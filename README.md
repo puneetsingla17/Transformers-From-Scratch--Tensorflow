@@ -7,5 +7,7 @@ Dataset Link :- https://www.kaggle.com/sunnysai12345/news-summary
 
 #Idea for Improving model 
 >Since pad tokens in Encoder doesnt contain any information so we can also use masking inside decoder to Self  Attention values which can  >help Transformer to learn more effectively
+
 > Transformer is continously decreasing loss so further improvement can be done by training same model for more number of epochs
+
 > Can be Improved by adding more layers and more heads inside Encoder aswell as Decoder
