@@ -2,6 +2,9 @@
 In this Repository , I will upload all my attempts in writing Transformers for different Seq2Seq Tasks. which is really important for Bert
 Model
 Dataset Link :- https://www.kaggle.com/sunnysai12345/news-summary
+>1st Attempt -> Machine Translation (generic Model)
+
+>2nd -3rd Attempt > Based on Text Summarization 
 
 >4th Attempt -> Implemented Masked Loss to remove loss because of padded tokens in decoder prediction
 
