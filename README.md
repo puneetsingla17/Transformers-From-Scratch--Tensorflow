@@ -7,6 +7,7 @@ Dataset Link :- https://www.kaggle.com/sunnysai12345/news-summary
 >2nd -3rd Attempt > Based on Text Summarization 
 
 >4th Attempt -> Implemented Masked Loss to remove loss because of padded tokens in decoder prediction
+
 >5th Attempt -> Implemented Masked Loss with 3 layers on each encoder and decoder with 3 heads to do decoder prediction
 
 #Idea for Improving model 
