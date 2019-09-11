@@ -1,4 +1,4 @@
-# Transformers-From-Scratch--Tensorflow
+# Transformers-From-Scratch BERT--Tensorflow
 In this Repository , I will upload all my attempts in writing Transformers for different Seq2Seq Tasks. which is really important for Bert
 Model
 Dataset Link :- https://www.kaggle.com/sunnysai12345/news-summary
